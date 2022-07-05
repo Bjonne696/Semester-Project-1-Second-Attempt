@@ -1,4 +1,11 @@
-
+@font-face {
+    font-family: "Lemonada";
+    src: url("../fonts/Lemonada/Lemonada-VariableFont_wght.ttf") format("truetype");
+    font-family: "Stick_No_Bills";
+    src: url("../fonts/Stick_No_Bills/StickNoBills-VariableFont_wght.ttf") format("truetype");
+    font-family: "Tourney";
+    src: url("../fonts/Tourney/Tourney-Italic-VariableFont_wdth\,wght.ttf") format("truetype");
+  }
 
 
 body {
@@ -8,6 +15,7 @@ body {
 
 h1 {
     margin: 0px;
+
 }
 
 .header {
