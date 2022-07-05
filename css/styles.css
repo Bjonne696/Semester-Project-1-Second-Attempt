@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "Lemonada";
-    src: url("../fonts/Lemonada/Lemonada-VariableFont_wght.ttf") format("truetype");
-    font-family: "Stick_No_Bills";
-    src: url("../fonts/Stick_No_Bills/StickNoBills-VariableFont_wght.ttf") format("truetype");
+    font-family: "YouGone";
+    src: url("../fonts/youre\ gone.otf") format("truetype");
+    font-family: "OrangeKid";
+    src: url("../fonts/orange\ kid.ttf") format("truetype");
     font-family: "Tourney";
-    src: url("../fonts/Tourney/Tourney-Italic-VariableFont_wdth\,wght.ttf") format("truetype");
+    src: url("../fonts/Tourney-VariableFont_wdth\,wght.ttf") format("truetype");
   }
 
   h1 {
@@ -13,12 +13,12 @@
   }
   
   h2 {
-    font-family: "Stick_No_Bills", "Trebuchet MS", "Lucida Sans Unicode",
+    font-family: "OrangeKid", "Trebuchet MS", "Lucida Sans Unicode",
       "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   }
   
   h3 {
-    font-family: "Lemonada", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "YouGone", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
 
 
