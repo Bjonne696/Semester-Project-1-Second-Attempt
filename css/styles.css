@@ -1,16 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@500&family=Stick+No+Bills:wght@600&family=Tourney:wght@700&display=swap');
-
-  h1 {
-    font-family: "Tourney', cursive", "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+h1 {
+    font-family: dimensions, sans-serif;
+    font-weight: 600;
+    font-style: normal;
   }
   
   h2 {
-    font-family: "Stick No Bills", "Trebuchet MS", "Lucida Sans Unicode",
-      "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-family: marvin, sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
-  
   h3 {
-    font-family: "Lemonada', cursive", "Segoe UI", Tahoma, Verdana, sans-serif;
+    font-family: ccsignlanguage, sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
 
 
