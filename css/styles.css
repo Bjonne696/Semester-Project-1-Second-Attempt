@@ -38,6 +38,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #efc67e;
+    text-shadow: 5px 5px 5px #af6793;
 
     
 
@@ -96,5 +98,7 @@ ul li {
     border-radius: 25px;
     text-align: center;
     padding: 6px;
+    box-shadow: -5px -5px 1px  #465e94;
+
     
 }
