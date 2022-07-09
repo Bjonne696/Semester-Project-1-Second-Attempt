@@ -157,6 +157,12 @@ ul {
     padding: 5px;
 }
 
+.font-gallery {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+
 .rounded-corners {
     border: solid;
     border-radius: 25%;
