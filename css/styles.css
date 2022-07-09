@@ -138,9 +138,19 @@ ul {
     padding:10px;
 }
 
-.image-wrapper {
+.image-wrapper-a {
     display: flex;
 }
+
+.image-wrapper-b {
+    display:block;
+}
+
+.wave-image {
+    margin: 40px;
+}
+
+
 
 .adobe-gallery {
     flex: 33.33%;
