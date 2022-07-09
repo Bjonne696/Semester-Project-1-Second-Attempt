@@ -168,31 +168,18 @@ ul {
     border-radius: 25%;
 }
 
-.image-holder-a {
+.image-holder {
     border: 10px solid #944680;
     margin:auto;
     width:50%;
     padding:10px;
 }
 
-.text-holder-a {
+.text-holder {
     border: 10px solid #46944c;
 
 }
 
 
-.text-holder-b {
-    border: 10px solid #944680;
-    height: 300px;
-    margin:auto;
-    width:50%;
-    padding:10px;
-}
 
-.image-holder-b{
-    text-align: center;
-    margin:auto;
-    width:50%;
-    padding:10px;
-    border: 10px solid #46944c;
-}
+
