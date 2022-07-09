@@ -21,7 +21,7 @@ h1 {
   }
 
   a {
-    color:#8F59AE;
+    color:#000000;
     text-shadow: 1.2px 1.2px 1px #8F59AE;
     text-decoration: none;
   }
@@ -48,7 +48,7 @@ body {
 }
 
 .linkbutton {
-    background: #ece986;
+    background: #c5ec86;
     margin: 15px;
     display: block;
     border-radius: 25px;
@@ -61,7 +61,7 @@ body {
 .wrapper {
     background: 
     linear-gradient(
-    to bottom right,
+    to top left,
     #8F8D5F,
     #8F8D5F 20%,
     #EFC67E 20%, 
@@ -128,51 +128,30 @@ ul {
 
 
 
-/*          PAGE 1     */
-
-.fuck {
-    margin:0px;
-}
+/*         OTHER PAGES     */
 
 
-
-.gradiant-left {
+.align-element {
     text-align: center;
     margin:auto;
     width:50%;
     padding:10px;
-   
-    
- 
-
 }
 
-.gradiant-image-left {
+.image-holder-a {
     border: 10px solid #944680;
     margin:auto;
     width:50%;
     padding:10px;
 }
 
-.gradiant-text-left {
+.text-holder-a {
     border: 10px solid #46944c;
 
 }
 
-.gradiant-text-right {
-    border: 10px solid #000000;
 
-}
-
-.gradiant-image-right {
-    border: 10px solid #002c92;
-
-}
-
-
-/*   PAGE 2 */
-
-.text{
+.text-holder-b {
     border: 10px solid #944680;
     height: 300px;
     margin:auto;
@@ -180,7 +159,7 @@ ul {
     padding:10px;
 }
 
-.pic{
+.image-holder-b{
     text-align: center;
     margin:auto;
     width:50%;
