@@ -130,6 +130,8 @@ ul li {
     #D9637D 60%,
     #AF6793 80%,
     #8F59AE 80%);
+    display: flex;
+    height: 85vh;
 }
 
 .gradiant-left {
