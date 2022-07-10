@@ -203,6 +203,9 @@ margin: 80px;
 
 .text-holder {
     display: inline-block;
+    background-color: #efc67e;
+    box-shadow: 5px 5px 5px 6px #44300e;
+    margin: 20px;
 
 }
 
