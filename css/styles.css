@@ -201,6 +201,8 @@ margin: 80px;
 .rounded-corners {
     border: solid;
     border-radius: 25%;
+    width: 100%;
+    height: auto;
 }
 
 .image-holder {
