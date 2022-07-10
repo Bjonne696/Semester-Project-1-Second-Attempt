@@ -4,22 +4,23 @@ h1 {
     font-family: marvin, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 8vh;  /* media querry*/
-    font-size: 2.8vw;
-    margin-right: 150px;
+    font-size: 2.5vw;
+    
   }
   
   h2 {
     font-family: tomarik-display-shadow, sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 1.8vw;
+
 
   }
   h3 {
     font-family: ccsignlanguage, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 2.5em;
+    font-size: 5vh;
     margin:15px;
     color: #AF6793;
     text-shadow: 1.2px 1.2px 1px #000000;
@@ -33,9 +34,10 @@ h1 {
 
   p {
     font-size: 1.2em;
-    margin: 15px;
+    margin: auto;
     color: #8F59AE;
     text-shadow: 1.2px 1.2px 1px #000000;
+    font-size: 2.5vh;
   }
 
 
@@ -92,7 +94,7 @@ footer {
     
     text-align: center;
     width: 100%;
-    height:100vh;
+    min-height:100vh;
 
     }
 
@@ -133,16 +135,12 @@ ul {
     list-style: none;
     margin: 0px;
     padding: 0px;
-    
-
-
-
 }
 
 .front-container {
     text-align: center;
     width: 100%;
-    min-height: 85vh;
+    
     background: repeating-conic-gradient(#af6793 0% 25%, #d9637d 25% 50%);
     background-size: 100px 100px;
     ;
@@ -152,10 +150,9 @@ ul {
 .welcome {
     display: inline-block;
     background-color: #efc67e;
-    max-width: 500px;
-    margin-top: 100px;
-    margin-right:150px;
-    margin-left: 100px;
+    margin:20px;
+
+  
     box-shadow: 5px 5px 5px 6px #44300e;
     padding: 15px;
 
@@ -163,16 +160,12 @@ ul {
 
 .list {
     display: inline-block;
-    width: 400px;
-    height: 400px;
+    margin:20px;
     border: 10px solid #465e94;
-    margin-left: 150px;
-    margin-top: 50px;
-    margin-right: 100px;
-    margin-bottom: 100px;
     background-color: #AF6793;
     border-radius: 25px;
     box-shadow: inset  0px 0px 14px 0px #8F59AE;
+    min-width: 60%;
 }
 
 
@@ -211,16 +204,17 @@ margin: 80px;
 
 .image-holder {
 
-    margin:auto;
-    width:50%;
-    padding:10px;
+  margin:auto;
+  width:50%;
+  padding:10px;
 }
 
 .text-holder {
     display: inline-block;
     background-color: #efc67e;
     box-shadow: 5px 5px 5px 6px #44300e;
-    margin: 20px;
+    padding: 20px;
+    margin:40px;
 
 }
 
