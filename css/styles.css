@@ -6,6 +6,7 @@ h1 {
     font-style: normal;
     font-size: 8vh;  /* media querry*/
     font-size: 2.8vw;
+    margin-right: 150px;
   }
   
   h2 {
@@ -18,12 +19,23 @@ h1 {
     font-family: ccsignlanguage, sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 2.5em;
+    margin:15px;
+    color: #AF6793;
+    text-shadow: 1.2px 1.2px 1px #000000;
   }
 
   a {
-    color:#000000;
+    color:#465e94;
     text-shadow: 1.2px 1.2px 1px #8F59AE;
     text-decoration: none;
+  }
+
+  p {
+    font-size: 1.2em;
+    margin: 15px;
+    color: #8F59AE;
+    text-shadow: 1.2px 1.2px 1px #000000;
   }
 
 
@@ -91,7 +103,7 @@ footer {
     flex-direction: row;
     list-style-type: none;
     border: 0px;
-    margin: 150px;
+    margin: 15px;
   }
   
   .nav-item {
@@ -130,7 +142,7 @@ ul {
 .front-container {
     text-align: center;
     width: 100%;
-    height: 85vh;
+    min-height: 85vh;
     background: repeating-conic-gradient(#af6793 0% 25%, #d9637d 25% 50%);
     background-size: 100px 100px;
     ;
@@ -138,13 +150,14 @@ ul {
 
 
 .welcome {
-    float: left;
+    display: inline-block;
     background-color: #efc67e;
-    width: 300px;
-    height: 450px;
+    max-width: 500px;
     margin-top: 100px;
-    margin-left:450px;
+    margin-right:150px;
+    margin-left: 100px;
     box-shadow: 5px 5px 5px 6px #44300e;
+    padding: 15px;
 
 }
 
@@ -153,8 +166,10 @@ ul {
     width: 400px;
     height: 400px;
     border: 10px solid #465e94;
-    margin-left: 25px;
+    margin-left: 150px;
     margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 100px;
     background-color: #AF6793;
     border-radius: 25px;
     box-shadow: inset  0px 0px 14px 0px #8F59AE;
