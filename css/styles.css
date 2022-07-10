@@ -4,14 +4,14 @@ h1 {
     font-family: marvin, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 10vw;
+    font-size: 8vh;  /* media querry*/
+    font-size: 2.8vw;
   }
   
   h2 {
     font-family: tomarik-display-shadow, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 5vw;
 
   }
   h3 {
@@ -33,7 +33,6 @@ body {
 }
 
 
-
 .header {
     background-color: #465e94;
     height: 15vh;
@@ -42,9 +41,14 @@ body {
     justify-content: center;
     color: #efc67e;
     text-shadow: 5px 5px 5px #af6793;
-    
+}
 
-    
+footer {
+    background-color: #465e94;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -56,6 +60,7 @@ body {
     text-align: center;
     padding: 6px;
     box-shadow: -5px -5px 1px  #465e94;
+    
 }
 
 
@@ -72,10 +77,12 @@ body {
     #D9637D 60%,
     #AF6793 80%,
     #8F59AE 80%);
-    display: flex;
-    height: 85vh;
     
-}
+    text-align: center;
+    width: 100%;
+    height:100vh;
+
+    }
 
 
 .nav-list {
@@ -165,18 +172,12 @@ ul {
     padding:10px;
 }
 
+
 .image-wrapper-a {
     display: flex;
-
+    
 }
 
-.image-wrapper-b {
-    display:block;
-}
-
-.wave-image {
-    margin: 40px;
-}
 
 .gallery {
     flex: 33.33%;
@@ -201,24 +202,10 @@ margin: 80px;
 }
 
 .text-holder {
+    display: inline-block;
 
 }
 
-.wrapper-2{
-    background: 
-    linear-gradient(
-    to top left,
-    #8F8D5F,
-    #8F8D5F 20%,
-    #EFC67E 20%, 
-    #EFC67E 40%,
-    #DB8060 40%,
-    #DB8060 60%,
-    #D9637D 60%,
-    #AF6793 80%,
-    #8F59AE 80%);
-    height: 85vh;
-}
 
 
 
