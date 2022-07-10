@@ -225,5 +225,33 @@ margin: 80px;
 
 
 
+#bounce-in-left {
+  animation-name: bounce-left;
+  animation-duration: 1.5s;
+  position: relative;
+  height: 100%;
+  width: 100%;
 
+}
+
+@keyframes bounce-left {
+  0%{right: 300px;}
+  50%{right: 0px;}
+  100%{right: 300px;}
+}
+
+#bounce-in-right {
+  animation-name: bounce-right;
+  animation-duration: 1.5s;
+  position: relative;
+  height: 100%;
+  width: 100%;
+
+}
+
+@keyframes bounce-right {
+  0%{left: 300px;}
+  50%{left: 0px;}
+  100%{left: 300px;}
+}
 
