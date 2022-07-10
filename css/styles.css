@@ -20,7 +20,7 @@ h1 {
     font-family: ccsignlanguage, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 5vh;
+    font-size: 5vw;
     margin:15px;
     color: #AF6793;
     text-shadow: 1.2px 1.2px 1px #000000;
@@ -30,6 +30,7 @@ h1 {
     color:#465e94;
     text-shadow: 1.2px 1.2px 1px #8F59AE;
     text-decoration: none;
+    font-size:1.8vw;
   }
 
   p {
@@ -37,7 +38,7 @@ h1 {
     margin: auto;
     color: #8F59AE;
     text-shadow: 1.2px 1.2px 1px #000000;
-    font-size: 2.5vh;
+    font-size: 2.5vw;
   }
 
 
