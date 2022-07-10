@@ -23,8 +23,8 @@ h1 {
     font-style: normal;
     font-size: 5vw;
     margin:15px;
-    color: #AF6793;
-    text-shadow: 1.2px 1.2px 1px #000000;
+    color: #465e94;
+    text-shadow: 1.5px 1.5px 1px #000000;
   }
 
   a {
@@ -37,7 +37,7 @@ h1 {
   p {
     font-size: 1.2em;
     margin: auto;
-    color: #8F59AE;
+    color: #465e94;
     text-shadow: 1.2px 1.2px 1px #000000;
     font-size: 2.5vw;
   }
@@ -65,7 +65,10 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+}
 
+.footer-text {
+  color: #D9637D;
 }
 
 .linkbutton {
@@ -76,6 +79,7 @@ footer {
     text-align: center;
     padding: 6px;
     box-shadow: -5px -5px 1px  #465e94;
+    text-shadow: 1.2px 1.2px 1.2px #000000;
     
 }
 
@@ -114,16 +118,19 @@ footer {
   .nav-item {
     color: #EFC67E;
     margin: 5px;
+    
   }
   
   .nav-link {
     color: #EFC67E;
     text-decoration: none;
+    text-shadow: 5px 5px 5px #000000;
   }
   
   .nav-link-current {
     text-decoration: none;
     color: #D9637D;
+    text-shadow: 5px 5px 5px #000000;
   }
 
 
@@ -142,7 +149,6 @@ ul {
 .front-container {
     text-align: center;
     width: 100%;
-    
     background: repeating-conic-gradient(#af6793 0% 25%, #d9637d 25% 50%);
     background-size: 100px 100px;
     ;
@@ -153,8 +159,6 @@ ul {
     display: inline-block;
     background-color: #efc67e;
     margin:20px;
-
-  
     box-shadow: 5px 5px 5px 6px #44300e;
     padding: 15px;
 
