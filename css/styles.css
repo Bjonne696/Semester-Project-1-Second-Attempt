@@ -42,6 +42,7 @@ body {
     justify-content: center;
     color: #efc67e;
     text-shadow: 5px 5px 5px #af6793;
+    
 
     
 
@@ -75,6 +76,33 @@ body {
     height: 85vh;
     
 }
+
+
+.nav-list {
+    justify-content: right;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    border: 0px;
+    margin: 150px;
+  }
+  
+  .nav-item {
+    color: #EFC67E;
+    font-size: 1rem;
+    margin: 25px;
+  }
+  
+  .nav-link {
+    color: #EFC67E;
+    text-decoration: none;
+  }
+  
+  .nav-link-current {
+    text-decoration: none;
+    color: #D9637D;
+  }
+
 
 
 /*        HOME PAGE     */
