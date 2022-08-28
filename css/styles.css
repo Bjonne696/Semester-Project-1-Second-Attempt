@@ -238,7 +238,7 @@ margin: 80px;
 }
 
 .product img {
-  width: 50%;
+  max-width: 50%;
 }
 
 
