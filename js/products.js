@@ -12,8 +12,8 @@ getProducts(baseUrl);
 
 function createHTML(products){
     products.forEach(function(product){
-        console.log(product);
-        productContainer.innerHTML += `<div><h2>${product.name}</h2>
+        productContainer.innerHTML += `<div class="product">
+        <h2>${product.name}</h2>
         <img src="${product.images[0].src}" alt="${product.name}">
         </div>`;
     })
