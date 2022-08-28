@@ -1,8 +1,8 @@
-const baseUrl = "http://localhost/flower-power/wp-json/wc/store/products"
+const baseUrl = "https://flower-power.one/wp-json/wc/store/products"
 
-async function getProduct(url){
+async function getProducts(url){
     const response = await fetch(url);
-    const products = response.json();
+    const products = await response.json();
     console.log(products);
 }
 
