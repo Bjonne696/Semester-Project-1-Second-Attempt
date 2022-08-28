@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost/flower-power/wp-json/wc/store/products"
+const baseUrl = "https://flower-power.one/wp-json/wc/store/products"
 const productContainer = document.querySelector(".products");
 
 async function getProducts(url){
