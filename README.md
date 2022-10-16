@@ -8,20 +8,28 @@ This is to test my skills in HTML and CSS.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+To test my skils i was to I was to create a website, having five pages.
 
-You can add some bullet points if you'd like to:
+One homepage, and four pages refrenceing good website i feel are usefull for front end developers.
 
-- List item 1
-- List item 2
-- List item 3
+Further i was to fetch API from another website create four posts dynamicly using WP.
+
+I encountered some problems and was only sucessfull in retrieving the posts loclaly
+
+Thus the section displaying the posts is removed from the site. but the code is vissible in the repository.
+
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+No tech stack was used in the creation of this project
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+Built with:
+
+HTML
+
+CSS
+
+Javascript
 
 ## Getting Started
 
