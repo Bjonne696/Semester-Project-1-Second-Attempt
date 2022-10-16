@@ -39,7 +39,7 @@ Javascript
 1. Clone the repo:
 
 ```bash
-git clone github.com/Bjonne696/Semester-Project-1-Second-Attempt.git
+git clone https://github.com/Bjonne696/Semester-Project-1-Second-Attempt.git
 ```
 
 
