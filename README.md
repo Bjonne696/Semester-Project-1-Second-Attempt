@@ -1,7 +1,7 @@
 # Semester-Project-1-Second-Attempt
 
+![semester](https://user-images.githubusercontent.com/83508588/196035483-c750d82a-08c2-4f0b-beb5-71de43af33c3.png)
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
 This is my second attempt for the semester project in front end development.
 This is to test my skills in HTML and CSS.
