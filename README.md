@@ -1,12 +1,10 @@
 # Semester-Project-1-Second-Attempt
-This is my second attempt for the semester project in front end development
 
-
-# Your project title
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-A simple overview of the use/purpose of the project.
+This is my second attempt for the semester project in front end development.
+This is to test my skills in HTML and CSS.
 
 ## Description
 
